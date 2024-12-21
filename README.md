@@ -1,5 +1,5 @@
 Environment Setup and Dependencies for ResNet-50
-1. Introduction
+1. Introductio
 ResNet-50 is a convolutional neural network (CNN) with 50 layers, widely used for image classification, feature extraction, and transfer learning tasks. This documentation outlines the steps to set up the environment and dependencies for implementing ResNet-50 using Python.
 ________________________________________
 2. Prerequisites
